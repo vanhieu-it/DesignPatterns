@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Builder\bin\Debug\net8.0\Creational.Builder.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Builder\bin\Debug\net8.0\Creational.Builder.deps.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Builder\bin\Debug\net8.0\Creational.Builder.runtimeconfig.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Builder\bin\Debug\net8.0\Creational.Builder.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Builder\bin\Debug\net8.0\Creational.Builder.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Builder\obj\Debug\net8.0\Creational.Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Builder\obj\Debug\net8.0\Creational.Builder.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Builder\obj\Debug\net8.0\Creational.Builder.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Builder\obj\Debug\net8.0\Creational.Builder.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Builder\obj\Debug\net8.0\Creational.Builder.sourcelink.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Builder\obj\Debug\net8.0\Creational.Builder.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Builder\obj\Debug\net8.0\refint\Creational.Builder.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Builder\obj\Debug\net8.0\Creational.Builder.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Builder\obj\Debug\net8.0\Creational.Builder.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Builder\obj\Debug\net8.0\ref\Creational.Builder.dll
