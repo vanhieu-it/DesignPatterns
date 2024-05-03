@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NXMqJN5NvElTS7LWemjX1iE10TUMUxaLGC1h7jk9JvnDQWjtcwYua3l0toi2Or9MQxF0UW9y2aa2EPltVkvrXg==",
+  "dgSpecHash": "ebahRaBcXIzNSBB7QzZgfhFaV0+lgeR2semdPuR6BrLqy14oQSmrVaTLt7My1Y4bvLXySx9SE69jWpmx2K9DKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj",
+  "projectFilePath": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.FactoryMethod\\Creational.FactoryMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

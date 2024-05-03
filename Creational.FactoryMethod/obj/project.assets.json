@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj",
+      "projectUniqueName": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.FactoryMethod\\Creational.FactoryMethod.csproj",
       "projectName": "Creational.FactoryMethod",
-      "projectPath": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj",
+      "projectPath": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.FactoryMethod\\Creational.FactoryMethod.csproj",
       "packagesPath": "C:\\Users\\Hieu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\obj\\",
+      "outputPath": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.FactoryMethod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

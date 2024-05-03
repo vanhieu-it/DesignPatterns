@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KK3uBvl3VXXSTbtrs9DTtrOp5UctjshOHUFe1HmBAJTSySPb5qnWvoGHftyROn1rIU1+LESmwBHAtVKHym8vfA==",
+  "dgSpecHash": "D6x09tpuK+Q5R5vTOzZQQq05D3H6s1+UfJLX9OrjyjJffzOa8FtTPEB9jhDsKSGxpgVj8d5ezTtC0tE4kuiinQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.Builder\\Creational.Builder.csproj",
+  "projectFilePath": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Builder\\Creational.Builder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
