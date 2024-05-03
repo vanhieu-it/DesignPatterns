@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Prototype\bin\Debug\net8.0\Creational.Prototype.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Prototype\bin\Debug\net8.0\Creational.Prototype.deps.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Prototype\bin\Debug\net8.0\Creational.Prototype.runtimeconfig.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Prototype\bin\Debug\net8.0\Creational.Prototype.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Prototype\bin\Debug\net8.0\Creational.Prototype.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Prototype\obj\Debug\net8.0\Creational.Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Prototype\obj\Debug\net8.0\Creational.Prototype.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Prototype\obj\Debug\net8.0\Creational.Prototype.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Prototype\obj\Debug\net8.0\Creational.Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Prototype\obj\Debug\net8.0\Creational.Prototype.sourcelink.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Prototype\obj\Debug\net8.0\Creational.Prototype.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Prototype\obj\Debug\net8.0\refint\Creational.Prototype.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Prototype\obj\Debug\net8.0\Creational.Prototype.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Prototype\obj\Debug\net8.0\Creational.Prototype.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Prototype\obj\Debug\net8.0\ref\Creational.Prototype.dll

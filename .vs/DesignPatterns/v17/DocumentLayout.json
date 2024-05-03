@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA0A3071-5E2A-4B8E-AE67-C4B34EC9C94A}|Creational.Prototype\\Creational.Prototype.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\creational.prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0A3071-5E2A-4B8E-AE67-C4B34EC9C94A}|Creational.Prototype\\Creational.Prototype.csproj|solutionrelative:creational.prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA0A3071-5E2A-4B8E-AE67-C4B34EC9C94A}|Creational.Prototype\\Creational.Prototype.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\creational.prototype\\creational.prototype.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EA0A3071-5E2A-4B8E-AE67-C4B34EC9C94A}|Creational.Prototype\\Creational.Prototype.csproj|solutionrelative:creational.prototype\\creational.prototype.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{867D27CF-3A20-4F4D-8C07-A44176A96300}|DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\designpatterns.factorymethod\\creational.factorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{867D27CF-3A20-4F4D-8C07-A44176A96300}|DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj|solutionrelative:designpatterns.factorymethod\\creational.factorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{56ED0B30-2612-46AE-9E35-19D1700F0B6C}|Creational.FactoryMethod\\Creational.FactoryMethod.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\creational.factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56ED0B30-2612-46AE-9E35-19D1700F0B6C}|Creational.FactoryMethod\\Creational.FactoryMethod.csproj|solutionrelative:creational.factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{867D27CF-3A20-4F4D-8C07-A44176A96300}|DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\designpatterns.factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{867D27CF-3A20-4F4D-8C07-A44176A96300}|DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj|solutionrelative:designpatterns.factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016F36EB-0E28-4DB1-A160-623ECBBA3B87}|DesignPatterns.Builder\\Creational.Builder.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\designpatterns.builder\\creational.builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{016F36EB-0E28-4DB1-A160-623ECBBA3B87}|DesignPatterns.Builder\\Creational.Builder.csproj|solutionrelative:designpatterns.builder\\creational.builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{56ED0B30-2612-46AE-9E35-19D1700F0B6C}|Creational.FactoryMethod\\Creational.FactoryMethod.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\creational.factorymethod\\creational.factorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56ED0B30-2612-46AE-9E35-19D1700F0B6C}|Creational.FactoryMethod\\Creational.FactoryMethod.csproj|solutionrelative:creational.factorymethod\\creational.factorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9176816F-4688-42E3-8825-C79596351921}|Creational.AbstractFactory\\Creational.AbstractFactory.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\creational.abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,12 +31,20 @@
       "RelativeMoniker": "D:0:0:{4DD3585D-29FC-4F14-B1B7-DF8E2EA3298F}|Creational.Singleton\\Creational.Singleton.csproj|solutionrelative:creational.singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA0A3071-5E2A-4B8E-AE67-C4B34EC9C94A}|Creational.Prototype\\Creational.Prototype.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\creational.prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0A3071-5E2A-4B8E-AE67-C4B34EC9C94A}|Creational.Prototype\\Creational.Prototype.csproj|solutionrelative:creational.prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF5AE992-6298-4F3F-8854-44F84A956079}|Creational.Builder\\Creational.Builder.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\creational.builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5AE992-6298-4F3F-8854-44F84A956079}|Creational.Builder\\Creational.Builder.csproj|solutionrelative:creational.builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Builder\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Creational.Builder\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.Builder\\Creational.Builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesignPatterns.Builder\\Creational.Builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesignPatterns.FactoryMethod\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,8 +62,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Creational.Prototype",
+              "DocumentIndex": 3,
+              "Title": "Creational.FactoryMethod",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.FactoryMethod\\Creational.FactoryMethod.csproj",
+              "RelativeDocumentMoniker": "Creational.FactoryMethod\\Creational.FactoryMethod.csproj",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.FactoryMethod\\Creational.FactoryMethod.csproj",
+              "RelativeToolTip": "Creational.FactoryMethod\\Creational.FactoryMethod.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T07:26:35.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.FactoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "Creational.FactoryMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.FactoryMethod\\Program.cs",
+              "RelativeToolTip": "Creational.FactoryMethod\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:25:09.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Creational.Prototype.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Prototype\\Creational.Prototype.csproj",
               "RelativeDocumentMoniker": "Creational.Prototype\\Creational.Prototype.csproj",
               "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Prototype\\Creational.Prototype.csproj",
@@ -67,29 +101,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Creational.Builder",
+              "DocumentIndex": 8,
+              "Title": "Creational.Builder.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.Builder\\Creational.Builder.csproj",
               "RelativeDocumentMoniker": "DesignPatterns.Builder\\Creational.Builder.csproj",
               "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.Builder\\Creational.Builder.csproj",
               "RelativeToolTip": "DesignPatterns.Builder\\Creational.Builder.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-03T07:07:06.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T07:07:06.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Creational.FactoryMethod",
+              "DocumentIndex": 9,
+              "Title": "Creational.FactoryMethod.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj",
               "RelativeDocumentMoniker": "DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj",
               "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj",
               "RelativeToolTip": "DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-03T07:06:58.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T07:06:58.7Z"
             },
             {
               "$type": "Document",
@@ -105,19 +137,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Prototype\\Program.cs",
               "RelativeDocumentMoniker": "Creational.Prototype\\Program.cs",
               "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Prototype\\Program.cs",
               "RelativeToolTip": "Creational.Prototype\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T04:07:07.387Z"
+              "WhenOpened": "2024-05-03T04:07:07.387Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Builder\\Program.cs",
               "RelativeDocumentMoniker": "Creational.Builder\\Program.cs",
@@ -137,12 +170,11 @@
               "RelativeToolTip": "Creational.AbstractFactory\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T04:05:53.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T04:05:53.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Program.cs",
               "RelativeDocumentMoniker": "DesignPatterns.FactoryMethod\\Program.cs",
@@ -150,8 +182,7 @@
               "RelativeToolTip": "DesignPatterns.FactoryMethod\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T04:03:09.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T04:03:09.124Z"
             },
             {
               "$type": "Document",
