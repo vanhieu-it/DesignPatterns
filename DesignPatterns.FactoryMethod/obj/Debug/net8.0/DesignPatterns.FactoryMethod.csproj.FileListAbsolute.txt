@@ -1,0 +1,14 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\net8.0\DesignPatterns.FactoryMethod.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\net8.0\DesignPatterns.FactoryMethod.deps.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\net8.0\DesignPatterns.FactoryMethod.runtimeconfig.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\net8.0\DesignPatterns.FactoryMethod.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\net8.0\DesignPatterns.FactoryMethod.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\DesignPatterns.FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\DesignPatterns.FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\DesignPatterns.FactoryMethod.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\DesignPatterns.FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\DesignPatterns.FactoryMethod.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\refint\DesignPatterns.FactoryMethod.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\DesignPatterns.FactoryMethod.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\DesignPatterns.FactoryMethod.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\ref\DesignPatterns.FactoryMethod.dll

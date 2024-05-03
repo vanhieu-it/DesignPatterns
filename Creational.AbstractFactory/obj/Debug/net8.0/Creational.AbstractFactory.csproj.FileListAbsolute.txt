@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.AbstractFactory\bin\Debug\net8.0\Creational.AbstractFactory.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.AbstractFactory\bin\Debug\net8.0\Creational.AbstractFactory.deps.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.AbstractFactory\bin\Debug\net8.0\Creational.AbstractFactory.runtimeconfig.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.AbstractFactory\bin\Debug\net8.0\Creational.AbstractFactory.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.AbstractFactory\bin\Debug\net8.0\Creational.AbstractFactory.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.AbstractFactory\obj\Debug\net8.0\Creational.AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.AbstractFactory\obj\Debug\net8.0\Creational.AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.AbstractFactory\obj\Debug\net8.0\Creational.AbstractFactory.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.AbstractFactory\obj\Debug\net8.0\Creational.AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.AbstractFactory\obj\Debug\net8.0\Creational.AbstractFactory.sourcelink.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.AbstractFactory\obj\Debug\net8.0\Creational.AbstractFactory.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.AbstractFactory\obj\Debug\net8.0\refint\Creational.AbstractFactory.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.AbstractFactory\obj\Debug\net8.0\Creational.AbstractFactory.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.AbstractFactory\obj\Debug\net8.0\Creational.AbstractFactory.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.AbstractFactory\obj\Debug\net8.0\ref\Creational.AbstractFactory.dll
