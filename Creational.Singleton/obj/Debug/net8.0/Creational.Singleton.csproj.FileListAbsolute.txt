@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Singleton\bin\Debug\net8.0\Creational.Singleton.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Singleton\bin\Debug\net8.0\Creational.Singleton.deps.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Singleton\bin\Debug\net8.0\Creational.Singleton.runtimeconfig.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Singleton\bin\Debug\net8.0\Creational.Singleton.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Singleton\bin\Debug\net8.0\Creational.Singleton.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Singleton\obj\Debug\net8.0\Creational.Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Singleton\obj\Debug\net8.0\Creational.Singleton.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Singleton\obj\Debug\net8.0\Creational.Singleton.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Singleton\obj\Debug\net8.0\Creational.Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Singleton\obj\Debug\net8.0\Creational.Singleton.sourcelink.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Singleton\obj\Debug\net8.0\Creational.Singleton.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Singleton\obj\Debug\net8.0\refint\Creational.Singleton.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Singleton\obj\Debug\net8.0\Creational.Singleton.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Singleton\obj\Debug\net8.0\Creational.Singleton.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Creational.Singleton\obj\Debug\net8.0\ref\Creational.Singleton.dll
