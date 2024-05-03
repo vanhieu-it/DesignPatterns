@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\net8.0\Creational.FactoryMethod.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\net8.0\Creational.FactoryMethod.deps.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\net8.0\Creational.FactoryMethod.runtimeconfig.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\net8.0\Creational.FactoryMethod.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\net8.0\Creational.FactoryMethod.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\Creational.FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\Creational.FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\Creational.FactoryMethod.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\Creational.FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\Creational.FactoryMethod.sourcelink.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\Creational.FactoryMethod.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\refint\Creational.FactoryMethod.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\Creational.FactoryMethod.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\Creational.FactoryMethod.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\ref\Creational.FactoryMethod.dll

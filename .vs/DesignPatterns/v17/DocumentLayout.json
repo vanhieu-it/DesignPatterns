@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA0A3071-5E2A-4B8E-AE67-C4B34EC9C94A}|Creational.Prototype\\Creational.Prototype.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\creational.prototype\\creational.prototype.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA0A3071-5E2A-4B8E-AE67-C4B34EC9C94A}|Creational.Prototype\\Creational.Prototype.csproj|solutionrelative:creational.prototype\\creational.prototype.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D27CF-3A20-4F4D-8C07-A44176A96300}|DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\designpatterns.factorymethod\\creational.factorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{867D27CF-3A20-4F4D-8C07-A44176A96300}|DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj|solutionrelative:designpatterns.factorymethod\\creational.factorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D27CF-3A20-4F4D-8C07-A44176A96300}|DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\designpatterns.factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D27CF-3A20-4F4D-8C07-A44176A96300}|DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj|solutionrelative:designpatterns.factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016F36EB-0E28-4DB1-A160-623ECBBA3B87}|DesignPatterns.Builder\\Creational.Builder.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\designpatterns.builder\\creational.builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{016F36EB-0E28-4DB1-A160-623ECBBA3B87}|DesignPatterns.Builder\\Creational.Builder.csproj|solutionrelative:designpatterns.builder\\creational.builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9176816F-4688-42E3-8825-C79596351921}|Creational.AbstractFactory\\Creational.AbstractFactory.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\creational.abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9176816F-4688-42E3-8825-C79596351921}|Creational.AbstractFactory\\Creational.AbstractFactory.csproj|solutionrelative:creational.abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9176816F-4688-42E3-8825-C79596351921}|Creational.AbstractFactory\\Creational.AbstractFactory.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\creational.abstractfactory\\creational.abstractfactory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9176816F-4688-42E3-8825-C79596351921}|Creational.AbstractFactory\\Creational.AbstractFactory.csproj|solutionrelative:creational.abstractfactory\\creational.abstractfactory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016F36EB-0E28-4DB1-A160-623ECBBA3B87}|DesignPatterns.Builder\\Creational.Builder.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\designpatterns.builder\\creational.builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{016F36EB-0E28-4DB1-A160-623ECBBA3B87}|DesignPatterns.Builder\\Creational.Builder.csproj|solutionrelative:designpatterns.builder\\creational.builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DD3585D-29FC-4F14-B1B7-DF8E2EA3298F}|Creational.Singleton\\Creational.Singleton.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\creational.singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Builder\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Creational.Builder\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{867D27CF-3A20-4F4D-8C07-A44176A96300}|DesignPatterns.FactoryMethod\\DesignPatterns.FactoryMethod.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\designpatterns.factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{867D27CF-3A20-4F4D-8C07-A44176A96300}|DesignPatterns.FactoryMethod\\DesignPatterns.FactoryMethod.csproj|solutionrelative:designpatterns.factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Creational.AbstractFactory",
-              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.AbstractFactory\\Creational.AbstractFactory.csproj",
-              "RelativeDocumentMoniker": "Creational.AbstractFactory\\Creational.AbstractFactory.csproj",
-              "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.AbstractFactory\\Creational.AbstractFactory.csproj",
-              "RelativeToolTip": "Creational.AbstractFactory\\Creational.AbstractFactory.csproj",
+              "DocumentIndex": 0,
+              "Title": "Creational.Prototype",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Prototype\\Creational.Prototype.csproj",
+              "RelativeDocumentMoniker": "Creational.Prototype\\Creational.Prototype.csproj",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Prototype\\Creational.Prototype.csproj",
+              "RelativeToolTip": "Creational.Prototype\\Creational.Prototype.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-03T04:09:58.017Z",
+              "WhenOpened": "2024-05-03T07:07:09.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Creational.Builder",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.Builder\\Creational.Builder.csproj",
               "RelativeDocumentMoniker": "DesignPatterns.Builder\\Creational.Builder.csproj",
@@ -67,12 +75,25 @@
               "RelativeToolTip": "DesignPatterns.Builder\\Creational.Builder.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-03T04:09:31.184Z",
+              "WhenOpened": "2024-05-03T07:07:06.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Creational.FactoryMethod",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj",
+              "RelativeDocumentMoniker": "DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj",
+              "RelativeToolTip": "DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T07:06:58.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Singleton\\Program.cs",
               "RelativeDocumentMoniker": "Creational.Singleton\\Program.cs",
@@ -80,12 +101,11 @@
               "RelativeToolTip": "Creational.Singleton\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T04:08:23.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T04:08:23.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Prototype\\Program.cs",
               "RelativeDocumentMoniker": "Creational.Prototype\\Program.cs",
@@ -93,12 +113,11 @@
               "RelativeToolTip": "Creational.Prototype\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T04:07:07.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T04:07:07.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Builder\\Program.cs",
               "RelativeDocumentMoniker": "Creational.Builder\\Program.cs",
@@ -106,33 +125,45 @@
               "RelativeToolTip": "Creational.Builder\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T04:06:33.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T04:06:33.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.AbstractFactory\\Program.cs",
               "RelativeDocumentMoniker": "Creational.AbstractFactory\\Program.cs",
               "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.AbstractFactory\\Program.cs",
               "RelativeToolTip": "Creational.AbstractFactory\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAwwBsAAAAvAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T04:05:53.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Program.cs",
               "RelativeDocumentMoniker": "DesignPatterns.FactoryMethod\\Program.cs",
               "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Program.cs",
               "RelativeToolTip": "DesignPatterns.FactoryMethod\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T04:03:09.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Creational.AbstractFactory.csproj",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.AbstractFactory\\Creational.AbstractFactory.csproj",
+              "RelativeDocumentMoniker": "Creational.AbstractFactory\\Creational.AbstractFactory.csproj",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.AbstractFactory\\Creational.AbstractFactory.csproj",
+              "RelativeToolTip": "Creational.AbstractFactory\\Creational.AbstractFactory.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T04:09:58.017Z",
               "EditorCaption": ""
             }
           ]
