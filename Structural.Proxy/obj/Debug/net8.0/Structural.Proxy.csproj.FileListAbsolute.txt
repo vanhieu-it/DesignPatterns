@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Proxy\bin\Debug\net8.0\Structural.Proxy.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Proxy\bin\Debug\net8.0\Structural.Proxy.deps.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Proxy\bin\Debug\net8.0\Structural.Proxy.runtimeconfig.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Proxy\bin\Debug\net8.0\Structural.Proxy.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Proxy\bin\Debug\net8.0\Structural.Proxy.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Proxy\obj\Debug\net8.0\Structural.Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Proxy\obj\Debug\net8.0\Structural.Proxy.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Proxy\obj\Debug\net8.0\Structural.Proxy.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Proxy\obj\Debug\net8.0\Structural.Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Proxy\obj\Debug\net8.0\Structural.Proxy.sourcelink.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Proxy\obj\Debug\net8.0\Structural.Proxy.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Proxy\obj\Debug\net8.0\refint\Structural.Proxy.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Proxy\obj\Debug\net8.0\Structural.Proxy.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Proxy\obj\Debug\net8.0\Structural.Proxy.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Proxy\obj\Debug\net8.0\ref\Structural.Proxy.dll
