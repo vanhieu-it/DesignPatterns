@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Facade\bin\Debug\net8.0\Structural.Facade.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Facade\bin\Debug\net8.0\Structural.Facade.deps.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Facade\bin\Debug\net8.0\Structural.Facade.runtimeconfig.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Facade\bin\Debug\net8.0\Structural.Facade.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Facade\bin\Debug\net8.0\Structural.Facade.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Facade\obj\Debug\net8.0\Structural.Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Facade\obj\Debug\net8.0\Structural.Facade.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Facade\obj\Debug\net8.0\Structural.Facade.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Facade\obj\Debug\net8.0\Structural.Facade.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Facade\obj\Debug\net8.0\Structural.Facade.sourcelink.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Facade\obj\Debug\net8.0\Structural.Facade.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Facade\obj\Debug\net8.0\refint\Structural.Facade.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Facade\obj\Debug\net8.0\Structural.Facade.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Facade\obj\Debug\net8.0\Structural.Facade.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Facade\obj\Debug\net8.0\ref\Structural.Facade.dll
