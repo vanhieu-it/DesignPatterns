@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Builder", "Creat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.FactoryMethod", "Creational.FactoryMethod\Creational.FactoryMethod.csproj", "{56ED0B30-2612-46AE-9E35-19D1700F0B6C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Adapter", "Structural.Adapter\Structural.Adapter.csproj", "{D946A6F4-5EB6-4854-B7BE-F5799A4CD330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Proxy", "Structural.Proxy\Structural.Proxy.csproj", "{316B9669-C8D9-48A7-915A-483D52CC6C12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{56ED0B30-2612-46AE-9E35-19D1700F0B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56ED0B30-2612-46AE-9E35-19D1700F0B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56ED0B30-2612-46AE-9E35-19D1700F0B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D946A6F4-5EB6-4854-B7BE-F5799A4CD330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D946A6F4-5EB6-4854-B7BE-F5799A4CD330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D946A6F4-5EB6-4854-B7BE-F5799A4CD330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D946A6F4-5EB6-4854-B7BE-F5799A4CD330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{316B9669-C8D9-48A7-915A-483D52CC6C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316B9669-C8D9-48A7-915A-483D52CC6C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316B9669-C8D9-48A7-915A-483D52CC6C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316B9669-C8D9-48A7-915A-483D52CC6C12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

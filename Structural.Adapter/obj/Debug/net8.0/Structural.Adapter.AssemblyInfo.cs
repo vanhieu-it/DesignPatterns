@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Structural.Adapter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5f6438947c6c1100818d55785102d4156612da7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d70f9e5ce61dea1f21e3f04de627db55954230f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Structural.Adapter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Structural.Adapter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
