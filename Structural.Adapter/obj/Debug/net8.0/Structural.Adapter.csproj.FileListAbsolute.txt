@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Adapter\bin\Debug\net8.0\Structural.Adapter.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Adapter\bin\Debug\net8.0\Structural.Adapter.deps.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Adapter\bin\Debug\net8.0\Structural.Adapter.runtimeconfig.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Adapter\bin\Debug\net8.0\Structural.Adapter.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Adapter\bin\Debug\net8.0\Structural.Adapter.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Adapter\obj\Debug\net8.0\Structural.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Adapter\obj\Debug\net8.0\Structural.Adapter.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Adapter\obj\Debug\net8.0\Structural.Adapter.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Adapter\obj\Debug\net8.0\Structural.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Adapter\obj\Debug\net8.0\Structural.Adapter.sourcelink.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Adapter\obj\Debug\net8.0\Structural.Adapter.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Adapter\obj\Debug\net8.0\refint\Structural.Adapter.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Adapter\obj\Debug\net8.0\Structural.Adapter.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Adapter\obj\Debug\net8.0\Structural.Adapter.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Adapter\obj\Debug\net8.0\ref\Structural.Adapter.dll
