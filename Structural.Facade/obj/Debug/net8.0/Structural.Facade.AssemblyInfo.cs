@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Structural.Facade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0891e3b20a4ec93ac0371278a72333a1c33e267d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81238616f2e008449656a4a3c6a2e40c3710954a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Structural.Facade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Structural.Facade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
