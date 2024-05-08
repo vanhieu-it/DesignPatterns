@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Flyweight\bin\Debug\net8.0\Structural.Flyweight.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Flyweight\bin\Debug\net8.0\Structural.Flyweight.deps.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Flyweight\bin\Debug\net8.0\Structural.Flyweight.runtimeconfig.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Flyweight\bin\Debug\net8.0\Structural.Flyweight.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Flyweight\bin\Debug\net8.0\Structural.Flyweight.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Flyweight\obj\Debug\net8.0\Structural.Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Flyweight\obj\Debug\net8.0\Structural.Flyweight.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Flyweight\obj\Debug\net8.0\Structural.Flyweight.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Flyweight\obj\Debug\net8.0\Structural.Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Flyweight\obj\Debug\net8.0\Structural.Flyweight.sourcelink.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Flyweight\obj\Debug\net8.0\Structural.Flyweight.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Flyweight\obj\Debug\net8.0\refint\Structural.Flyweight.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Flyweight\obj\Debug\net8.0\Structural.Flyweight.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Flyweight\obj\Debug\net8.0\Structural.Flyweight.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Flyweight\obj\Debug\net8.0\ref\Structural.Flyweight.dll
