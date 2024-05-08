@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Decorator\bin\Debug\net8.0\Structural.Decorator.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Decorator\bin\Debug\net8.0\Structural.Decorator.deps.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Decorator\bin\Debug\net8.0\Structural.Decorator.runtimeconfig.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Decorator\bin\Debug\net8.0\Structural.Decorator.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Decorator\bin\Debug\net8.0\Structural.Decorator.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Decorator\obj\Debug\net8.0\Structural.Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Decorator\obj\Debug\net8.0\Structural.Decorator.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Decorator\obj\Debug\net8.0\Structural.Decorator.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Decorator\obj\Debug\net8.0\Structural.Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Decorator\obj\Debug\net8.0\Structural.Decorator.sourcelink.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Decorator\obj\Debug\net8.0\Structural.Decorator.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Decorator\obj\Debug\net8.0\refint\Structural.Decorator.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Decorator\obj\Debug\net8.0\Structural.Decorator.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Decorator\obj\Debug\net8.0\Structural.Decorator.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Structural.Decorator\obj\Debug\net8.0\ref\Structural.Decorator.dll

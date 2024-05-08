@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Structural.Bridge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81238616f2e008449656a4a3c6a2e40c3710954a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dd4089c78edcdb3fa895202ccbb688990b7331d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Structural.Bridge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Structural.Bridge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
