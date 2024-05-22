@@ -69,6 +69,7 @@ namespace Behavioral.Command
             RemoteControl remote = new RemoteControl();
             remote.SetCommand(lightOn);
             remote.PressButton();
+            Console.ReadKey();
         }
     }
 }
