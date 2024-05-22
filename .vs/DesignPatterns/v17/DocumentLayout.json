@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE3CEF3C-2D28-45E1-A11A-CFD90679704F}|Behavioral.Observer\\Behavioral.Observer.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\behavioral.observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3CEF3C-2D28-45E1-A11A-CFD90679704F}|Behavioral.Observer\\Behavioral.Observer.csproj|solutionrelative:behavioral.observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{089D4D10-9493-4822-BACD-8516A7852898}|Behavioral.Command\\Behavioral.Command.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\behavioral.command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{089D4D10-9493-4822-BACD-8516A7852898}|Behavioral.Command\\Behavioral.Command.csproj|solutionrelative:behavioral.command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -104,6 +108,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Observer\\Program.cs",
+              "RelativeDocumentMoniker": "Behavioral.Observer\\Program.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Observer\\Program.cs",
+              "RelativeToolTip": "Behavioral.Observer\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAywFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T04:09:23.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Command\\Program.cs",
               "RelativeDocumentMoniker": "Behavioral.Command\\Program.cs",
               "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Command\\Program.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.ChainOfResponsibility\\Program.cs",
               "RelativeDocumentMoniker": "Behavioral.ChainOfResponsibility\\Program.cs",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Structural.Decorator.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Structural.Decorator\\Structural.Decorator.csproj",
               "RelativeDocumentMoniker": "Structural.Decorator\\Structural.Decorator.csproj",
@@ -139,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Structural.Decorator\\Program.cs",
               "RelativeDocumentMoniker": "Structural.Decorator\\Program.cs",
@@ -151,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Structural.Flyweight\\Program.cs",
               "RelativeDocumentMoniker": "Structural.Flyweight\\Program.cs",
@@ -163,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Structural.Bridge\\Program.cs",
               "RelativeDocumentMoniker": "Structural.Bridge\\Program.cs",
@@ -175,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Structural.Composite\\Program.cs",
               "RelativeDocumentMoniker": "Structural.Composite\\Program.cs",
@@ -187,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Structural.Facade\\Program.cs",
               "RelativeDocumentMoniker": "Structural.Facade\\Program.cs",
@@ -199,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Structural.Proxy\\Program.cs",
               "RelativeDocumentMoniker": "Structural.Proxy\\Program.cs",
@@ -211,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Creational.Singleton.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Singleton\\Creational.Singleton.csproj",
               "RelativeDocumentMoniker": "Creational.Singleton\\Creational.Singleton.csproj",
@@ -223,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Creational.FactoryMethod.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.FactoryMethod\\Creational.FactoryMethod.csproj",
               "RelativeDocumentMoniker": "Creational.FactoryMethod\\Creational.FactoryMethod.csproj",
@@ -235,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.FactoryMethod\\Program.cs",
               "RelativeDocumentMoniker": "Creational.FactoryMethod\\Program.cs",
@@ -247,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Creational.Prototype.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Prototype\\Creational.Prototype.csproj",
               "RelativeDocumentMoniker": "Creational.Prototype\\Creational.Prototype.csproj",
@@ -259,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Singleton\\Program.cs",
               "RelativeDocumentMoniker": "Creational.Singleton\\Program.cs",
@@ -271,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Prototype\\Program.cs",
               "RelativeDocumentMoniker": "Creational.Prototype\\Program.cs",
@@ -283,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Builder\\Program.cs",
               "RelativeDocumentMoniker": "Creational.Builder\\Program.cs",
@@ -295,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.AbstractFactory\\Program.cs",
               "RelativeDocumentMoniker": "Creational.AbstractFactory\\Program.cs",
@@ -307,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Creational.FactoryMethod.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj",
               "RelativeDocumentMoniker": "DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj",
@@ -319,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Creational.Builder.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.Builder\\Creational.Builder.csproj",
               "RelativeDocumentMoniker": "DesignPatterns.Builder\\Creational.Builder.csproj",
@@ -331,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Program.cs",
               "RelativeDocumentMoniker": "DesignPatterns.FactoryMethod\\Program.cs",
@@ -343,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Creational.AbstractFactory.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.AbstractFactory\\Creational.AbstractFactory.csproj",
               "RelativeDocumentMoniker": "Creational.AbstractFactory\\Creational.AbstractFactory.csproj",
