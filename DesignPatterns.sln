@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Observer", "Beha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Strategy", "Behavioral.Strategy\Behavioral.Strategy.csproj", "{1EFF8FF8-8FDA-45EE-A13A-79470C0A1ADE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Iterator", "Behavioral.Iterator\Behavioral.Iterator.csproj", "{D5B1CC21-B616-4202-B9DB-667B78A4F1E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{1EFF8FF8-8FDA-45EE-A13A-79470C0A1ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EFF8FF8-8FDA-45EE-A13A-79470C0A1ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EFF8FF8-8FDA-45EE-A13A-79470C0A1ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B1CC21-B616-4202-B9DB-667B78A4F1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B1CC21-B616-4202-B9DB-667B78A4F1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B1CC21-B616-4202-B9DB-667B78A4F1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B1CC21-B616-4202-B9DB-667B78A4F1E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
