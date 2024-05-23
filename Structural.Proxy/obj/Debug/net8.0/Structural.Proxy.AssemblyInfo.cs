@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Structural.Proxy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+375b86b6f70430ab4f4665f32dd8bca2f9c7270d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb510c40993f90a30323c46bcd7f0cf37f738a4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Structural.Proxy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Structural.Proxy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
