@@ -2,7 +2,7 @@
 
 <br>
 
-|[Creational Design Patterns](#creational-design-patterns)|[Structural Design Patterns](#structural-design-patterns)|[Behavioral Design Patterns](#behavioral-design-patterns)|
+|[Creational Design Patterns]|[Structural Design Patterns]|[Behavioral Design Patterns]|
 |:-|:-|:-|
 |[Singleton]|[Adapter]|[Chain of Responsibility]|
 |[Factory Method]|[Bridge]|[Command]|
