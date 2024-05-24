@@ -1,0 +1,1 @@
+> Mẫu thiết kế Mediator là một mẫu thiết kế hành vi nhằm giảm sự phụ thuộc lẫn nhau giữa các đối tượng trong hệ thống, bằng cách giới thiệu một đối tượng trung gian (mediator) để quản lý và điều phối việc giao tiếp giữa các đối tượng đó. Mediator giúp các đối tượng chỉ cần biết về mediator mà không cần biết về các đối tượng khác, làm cho hệ thống dễ bảo trì và mở rộng hơn.
