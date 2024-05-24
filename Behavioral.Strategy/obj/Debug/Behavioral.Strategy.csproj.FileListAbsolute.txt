@@ -1,0 +1,7 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Strategy\bin\Debug\Behavioral.Strategy.exe.config
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Strategy\bin\Debug\Behavioral.Strategy.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Strategy\bin\Debug\Behavioral.Strategy.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Strategy\obj\Debug\Behavioral.Strategy.csproj.AssemblyReference.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Strategy\obj\Debug\Behavioral.Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Strategy\obj\Debug\Behavioral.Strategy.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Strategy\obj\Debug\Behavioral.Strategy.pdb

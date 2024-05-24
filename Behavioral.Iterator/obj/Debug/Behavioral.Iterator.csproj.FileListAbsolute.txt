@@ -1,0 +1,7 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Iterator\bin\Debug\Behavioral.Iterator.exe.config
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Iterator\bin\Debug\Behavioral.Iterator.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Iterator\bin\Debug\Behavioral.Iterator.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Iterator\obj\Debug\Behavioral.Iterator.csproj.AssemblyReference.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Iterator\obj\Debug\Behavioral.Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Iterator\obj\Debug\Behavioral.Iterator.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Iterator\obj\Debug\Behavioral.Iterator.pdb

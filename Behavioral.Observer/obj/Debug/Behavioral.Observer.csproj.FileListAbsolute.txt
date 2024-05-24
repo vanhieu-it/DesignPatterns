@@ -1,0 +1,7 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Observer\bin\Debug\Behavioral.Observer.exe.config
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Observer\bin\Debug\Behavioral.Observer.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Observer\bin\Debug\Behavioral.Observer.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Observer\obj\Debug\Behavioral.Observer.csproj.AssemblyReference.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Observer\obj\Debug\Behavioral.Observer.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Observer\obj\Debug\Behavioral.Observer.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Observer\obj\Debug\Behavioral.Observer.pdb

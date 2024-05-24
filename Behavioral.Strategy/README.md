@@ -1,0 +1,1 @@
+> Mẫu thiết kế Strategy định nghĩa một họ các thuật toán, đóng gói từng thuật toán, và làm cho chúng có thể thay thế lẫn nhau. Strategy cho phép thuật toán thay đổi độc lập với các khách hàng sử dụng thuật toán.
