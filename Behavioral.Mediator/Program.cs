@@ -96,6 +96,7 @@ namespace Behavioral.Mediator
 
             Console.WriteLine("Client triggers operation D.");
             component2.DoD();
+            Console.ReadKey();
         }
     }
 
