@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Memento\bin\Debug\net8.0\Behavioral.Memento.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Memento\bin\Debug\net8.0\Behavioral.Memento.deps.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Memento\bin\Debug\net8.0\Behavioral.Memento.runtimeconfig.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Memento\bin\Debug\net8.0\Behavioral.Memento.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Memento\bin\Debug\net8.0\Behavioral.Memento.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Memento\obj\Debug\net8.0\Behavioral.Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Memento\obj\Debug\net8.0\Behavioral.Memento.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Memento\obj\Debug\net8.0\Behavioral.Memento.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Memento\obj\Debug\net8.0\Behavioral.Memento.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Memento\obj\Debug\net8.0\Behavioral.Memento.sourcelink.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Memento\obj\Debug\net8.0\Behavioral.Memento.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Memento\obj\Debug\net8.0\refint\Behavioral.Memento.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Memento\obj\Debug\net8.0\Behavioral.Memento.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Memento\obj\Debug\net8.0\Behavioral.Memento.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Memento\obj\Debug\net8.0\ref\Behavioral.Memento.dll
