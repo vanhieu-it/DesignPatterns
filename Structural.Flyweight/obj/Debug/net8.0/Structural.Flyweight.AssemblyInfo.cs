@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Structural.Flyweight")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e5e407aba3620aa7a137214ad1b1dc5aedadaca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+283596bb5ee44bc690646c28ba1169ede734827d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Structural.Flyweight")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Structural.Flyweight")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

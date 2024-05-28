@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Visitor\bin\Debug\net8.0\Behavioral.Visitor.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Visitor\bin\Debug\net8.0\Behavioral.Visitor.deps.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Visitor\bin\Debug\net8.0\Behavioral.Visitor.runtimeconfig.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Visitor\bin\Debug\net8.0\Behavioral.Visitor.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Visitor\bin\Debug\net8.0\Behavioral.Visitor.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Visitor\obj\Debug\net8.0\Behavioral.Visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Visitor\obj\Debug\net8.0\Behavioral.Visitor.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Visitor\obj\Debug\net8.0\Behavioral.Visitor.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Visitor\obj\Debug\net8.0\Behavioral.Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Visitor\obj\Debug\net8.0\Behavioral.Visitor.sourcelink.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Visitor\obj\Debug\net8.0\Behavioral.Visitor.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Visitor\obj\Debug\net8.0\refint\Behavioral.Visitor.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Visitor\obj\Debug\net8.0\Behavioral.Visitor.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Visitor\obj\Debug\net8.0\Behavioral.Visitor.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.Visitor\obj\Debug\net8.0\ref\Behavioral.Visitor.dll
