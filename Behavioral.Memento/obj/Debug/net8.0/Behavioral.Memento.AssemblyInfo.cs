@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Behavioral.Memento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+283596bb5ee44bc690646c28ba1169ede734827d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8605e48ea0533b68ff71af7e864341807f89deb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Behavioral.Memento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Behavioral.Memento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

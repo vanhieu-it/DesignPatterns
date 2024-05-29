@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.State\bin\Debug\net8.0\Behavioral.State.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.State\bin\Debug\net8.0\Behavioral.State.deps.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.State\bin\Debug\net8.0\Behavioral.State.runtimeconfig.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.State\bin\Debug\net8.0\Behavioral.State.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.State\bin\Debug\net8.0\Behavioral.State.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.State\obj\Debug\net8.0\Behavioral.State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.State\obj\Debug\net8.0\Behavioral.State.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.State\obj\Debug\net8.0\Behavioral.State.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.State\obj\Debug\net8.0\Behavioral.State.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.State\obj\Debug\net8.0\Behavioral.State.sourcelink.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.State\obj\Debug\net8.0\Behavioral.State.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.State\obj\Debug\net8.0\refint\Behavioral.State.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.State\obj\Debug\net8.0\Behavioral.State.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.State\obj\Debug\net8.0\Behavioral.State.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.State\obj\Debug\net8.0\ref\Behavioral.State.dll
