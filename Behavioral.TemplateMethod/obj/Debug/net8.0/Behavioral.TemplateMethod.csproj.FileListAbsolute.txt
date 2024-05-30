@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.TemplateMethod\bin\Debug\net8.0\Behavioral.TemplateMethod.exe
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.TemplateMethod\bin\Debug\net8.0\Behavioral.TemplateMethod.deps.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.TemplateMethod\bin\Debug\net8.0\Behavioral.TemplateMethod.runtimeconfig.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.TemplateMethod\bin\Debug\net8.0\Behavioral.TemplateMethod.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.TemplateMethod\bin\Debug\net8.0\Behavioral.TemplateMethod.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.TemplateMethod\obj\Debug\net8.0\Behavioral.TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.TemplateMethod\obj\Debug\net8.0\Behavioral.TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.TemplateMethod\obj\Debug\net8.0\Behavioral.TemplateMethod.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.TemplateMethod\obj\Debug\net8.0\Behavioral.TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.TemplateMethod\obj\Debug\net8.0\Behavioral.TemplateMethod.sourcelink.json
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.TemplateMethod\obj\Debug\net8.0\Behavioral.TemplateMethod.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.TemplateMethod\obj\Debug\net8.0\refint\Behavioral.TemplateMethod.dll
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.TemplateMethod\obj\Debug\net8.0\Behavioral.TemplateMethod.pdb
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.TemplateMethod\obj\Debug\net8.0\Behavioral.TemplateMethod.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\new\DesignPatterns\DesignPatterns\Behavioral.TemplateMethod\obj\Debug\net8.0\ref\Behavioral.TemplateMethod.dll
