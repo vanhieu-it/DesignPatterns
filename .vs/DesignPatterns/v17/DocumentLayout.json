@@ -3,11 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDD94F25-5401-4D5E-B4CF-0A07815C987D}|Behavioral.Mediator\\Behavioral.Mediator.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\behavioral.mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53F57823-068E-4251-9F16-37AE6AE5C4FA}|Behavioral.TemplateMethod\\Behavioral.TemplateMethod.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\behavioral.templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F57823-068E-4251-9F16-37AE6AE5C4FA}|Behavioral.TemplateMethod\\Behavioral.TemplateMethod.csproj|solutionrelative:behavioral.templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59039EB2-9665-4222-8850-3FBE6ACD1D43}|Behavioral.State\\Behavioral.State.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\behavioral.state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59039EB2-9665-4222-8850-3FBE6ACD1D43}|Behavioral.State\\Behavioral.State.csproj|solutionrelative:behavioral.state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD69384E-1B6D-4521-829D-0614AC305AD8}|Behavioral.Visitor\\Behavioral.Visitor.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\behavioral.visitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD69384E-1B6D-4521-829D-0614AC305AD8}|Behavioral.Visitor\\Behavioral.Visitor.csproj|solutionrelative:behavioral.visitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF6D27B-BAD5-49E1-9037-2969D96E4E8B}|Behavioral.Memento\\Behavioral.Memento.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\behavioral.memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF6D27B-BAD5-49E1-9037-2969D96E4E8B}|Behavioral.Memento\\Behavioral.Memento.csproj|solutionrelative:behavioral.memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56ED0B30-2612-46AE-9E35-19D1700F0B6C}|Creational.FactoryMethod\\Creational.FactoryMethod.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\creational.factorymethod\\creational.factorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56ED0B30-2612-46AE-9E35-19D1700F0B6C}|Creational.FactoryMethod\\Creational.FactoryMethod.csproj|solutionrelative:creational.factorymethod\\creational.factorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD94F25-5401-4D5E-B4CF-0A07815C987D}|Behavioral.Mediator\\Behavioral.Mediator.csproj|C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\behavioral.mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD94F25-5401-4D5E-B4CF-0A07815C987D}|Behavioral.Mediator\\Behavioral.Mediator.csproj|solutionrelative:behavioral.mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5B1CC21-B616-4202-B9DB-667B78A4F1E7}|Behavioral.Iterator\\Behavioral.Iterator.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\behavioral.iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5B1CC21-B616-4202-B9DB-667B78A4F1E7}|Behavioral.Iterator\\Behavioral.Iterator.csproj|C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\behavioral.iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5B1CC21-B616-4202-B9DB-667B78A4F1E7}|Behavioral.Iterator\\Behavioral.Iterator.csproj|solutionrelative:behavioral.iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -83,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{56ED0B30-2612-46AE-9E35-19D1700F0B6C}|Creational.FactoryMethod\\Creational.FactoryMethod.csproj|solutionrelative:creational.factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56ED0B30-2612-46AE-9E35-19D1700F0B6C}|Creational.FactoryMethod\\Creational.FactoryMethod.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\creational.factorymethod\\creational.factorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{56ED0B30-2612-46AE-9E35-19D1700F0B6C}|Creational.FactoryMethod\\Creational.FactoryMethod.csproj|solutionrelative:creational.factorymethod\\creational.factorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9176816F-4688-42E3-8825-C79596351921}|Creational.AbstractFactory\\Creational.AbstractFactory.csproj|c:\\users\\hieu\\desktop\\new\\designpatterns\\designpatterns\\creational.abstractfactory\\creational.abstractfactory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9176816F-4688-42E3-8825-C79596351921}|Creational.AbstractFactory\\Creational.AbstractFactory.csproj|solutionrelative:creational.abstractfactory\\creational.abstractfactory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -120,18 +136,67 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Mediator\\Program.cs",
-              "RelativeDocumentMoniker": "Behavioral.Mediator\\Program.cs",
-              "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Mediator\\Program.cs",
-              "RelativeToolTip": "Behavioral.Mediator\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAeAAAA",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.TemplateMethod\\Program.cs",
+              "RelativeDocumentMoniker": "Behavioral.TemplateMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.TemplateMethod\\Program.cs",
+              "RelativeToolTip": "Behavioral.TemplateMethod\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwDEAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T02:02:03.784Z",
+              "WhenOpened": "2024-05-30T02:22:33.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.State\\Program.cs",
+              "RelativeDocumentMoniker": "Behavioral.State\\Program.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.State\\Program.cs",
+              "RelativeToolTip": "Behavioral.State\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:40:37.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Visitor\\Program.cs",
+              "RelativeDocumentMoniker": "Behavioral.Visitor\\Program.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Visitor\\Program.cs",
+              "RelativeToolTip": "Behavioral.Visitor\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAADwv0AAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T02:26:18.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Memento\\Program.cs",
+              "RelativeDocumentMoniker": "Behavioral.Memento\\Program.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Memento\\Program.cs",
+              "RelativeToolTip": "Behavioral.Memento\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:32:42.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Mediator\\Program.cs",
+              "RelativeDocumentMoniker": "Behavioral.Mediator\\Program.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Mediator\\Program.cs",
+              "RelativeToolTip": "Behavioral.Mediator\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAuwD8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:02:03.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Iterator\\Program.cs",
               "RelativeDocumentMoniker": "Behavioral.Iterator\\Program.cs",
@@ -139,12 +204,11 @@
               "RelativeToolTip": "Behavioral.Iterator\\Program.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAwwC4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T02:00:15.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T02:00:15.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Strategy\\Program.cs",
               "RelativeDocumentMoniker": "Behavioral.Strategy\\Program.cs",
@@ -156,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Observer\\Program.cs",
               "RelativeDocumentMoniker": "Behavioral.Observer\\Program.cs",
@@ -168,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.Command\\Program.cs",
               "RelativeDocumentMoniker": "Behavioral.Command\\Program.cs",
@@ -180,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Behavioral.ChainOfResponsibility\\Program.cs",
               "RelativeDocumentMoniker": "Behavioral.ChainOfResponsibility\\Program.cs",
@@ -192,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Structural.Decorator.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Structural.Decorator\\Structural.Decorator.csproj",
               "RelativeDocumentMoniker": "Structural.Decorator\\Structural.Decorator.csproj",
@@ -204,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Structural.Decorator\\Program.cs",
               "RelativeDocumentMoniker": "Structural.Decorator\\Program.cs",
@@ -216,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Structural.Flyweight\\Program.cs",
               "RelativeDocumentMoniker": "Structural.Flyweight\\Program.cs",
@@ -228,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Structural.Bridge\\Program.cs",
               "RelativeDocumentMoniker": "Structural.Bridge\\Program.cs",
@@ -240,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Structural.Composite\\Program.cs",
               "RelativeDocumentMoniker": "Structural.Composite\\Program.cs",
@@ -252,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Structural.Facade\\Program.cs",
               "RelativeDocumentMoniker": "Structural.Facade\\Program.cs",
@@ -264,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Structural.Proxy\\Program.cs",
               "RelativeDocumentMoniker": "Structural.Proxy\\Program.cs",
@@ -276,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Creational.Singleton.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Singleton\\Creational.Singleton.csproj",
               "RelativeDocumentMoniker": "Creational.Singleton\\Creational.Singleton.csproj",
@@ -288,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 4,
               "Title": "Creational.FactoryMethod.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.FactoryMethod\\Creational.FactoryMethod.csproj",
               "RelativeDocumentMoniker": "Creational.FactoryMethod\\Creational.FactoryMethod.csproj",
@@ -300,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.FactoryMethod\\Program.cs",
               "RelativeDocumentMoniker": "Creational.FactoryMethod\\Program.cs",
@@ -312,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Creational.Prototype.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Prototype\\Creational.Prototype.csproj",
               "RelativeDocumentMoniker": "Creational.Prototype\\Creational.Prototype.csproj",
@@ -324,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Singleton\\Program.cs",
               "RelativeDocumentMoniker": "Creational.Singleton\\Program.cs",
@@ -336,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Prototype\\Program.cs",
               "RelativeDocumentMoniker": "Creational.Prototype\\Program.cs",
@@ -348,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.Builder\\Program.cs",
               "RelativeDocumentMoniker": "Creational.Builder\\Program.cs",
@@ -360,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.AbstractFactory\\Program.cs",
               "RelativeDocumentMoniker": "Creational.AbstractFactory\\Program.cs",
@@ -372,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Creational.FactoryMethod.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj",
               "RelativeDocumentMoniker": "DesignPatterns.FactoryMethod\\Creational.FactoryMethod.csproj",
@@ -384,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Creational.Builder.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.Builder\\Creational.Builder.csproj",
               "RelativeDocumentMoniker": "DesignPatterns.Builder\\Creational.Builder.csproj",
@@ -396,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\DesignPatterns.FactoryMethod\\Program.cs",
               "RelativeDocumentMoniker": "DesignPatterns.FactoryMethod\\Program.cs",
@@ -408,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Creational.AbstractFactory.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\new\\DesignPatterns\\DesignPatterns\\Creational.AbstractFactory\\Creational.AbstractFactory.csproj",
               "RelativeDocumentMoniker": "Creational.AbstractFactory\\Creational.AbstractFactory.csproj",

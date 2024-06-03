@@ -1,0 +1,6 @@
+> Flyweight là một trong những mẫu thiết kế thuộc nhóm Structural (Cấu trúc) trong lập trình hướng đối tượng, được sử dụng để giảm thiểu việc sử dụng bộ nhớ khi xử lý nhiều đối tượng có cùng bản chất hoặc trạng thái chung. Mẫu này đạt được điều này bằng cách chia sẻ các phần trạng thái chung giữa các đối tượng thay vì tạo ra các đối tượng hoàn toàn mới mỗi khi cần.
+- Flyweight Interface: Xác định các phương thức mà tất cả các Flyweight cụ thể phải triển khai. Các phương thức này thường bao gồm những hành động có thể thực hiện trên các đối tượng Flyweight.
+- Concrete Flyweight: Triển khai giao diện Flyweight và đại diện cho các đối tượng có thể chia sẻ. Chứa trạng thái chung và không thay đổi (intrinsic state).
+- Unshared Concrete Flyweight: Đôi khi, có những đối tượng không thể chia sẻ hoàn toàn. Chúng vẫn có thể chứa các thành phần Flyweight để tiết kiệm bộ nhớ, nhưng chính bản thân chúng không chia sẻ được.
+- Flyweight Factory: Quản lý và cung cấp các đối tượng Flyweight. Đảm bảo rằng các đối tượng Flyweight được chia sẻ một cách thích hợp bằng cách kiểm tra xem một Flyweight với một trạng thái cụ thể đã tồn tại chưa và chỉ tạo ra một đối tượng mới nếu cần thiết.
+- Client: Sử dụng các đối tượng Flyweight và có thể chứa trạng thái đặc biệt (extrinsic state) của chúng. Trạng thái này được truyền vào các phương thức của Flyweight khi cần thiết.
