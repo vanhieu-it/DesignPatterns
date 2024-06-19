@@ -1,1 +1,0 @@
-> Mẫu thiết kế Template Method là một mẫu thiết kế hành vi định nghĩa khung của một thuật toán trong một phương thức, chuyển giao trách nhiệm thực hiện các bước cụ thể của thuật toán cho các lớp con. Mẫu này cho phép các lớp con định nghĩa lại các bước cụ thể của thuật toán mà không thay đổi cấu trúc của thuật toán.
