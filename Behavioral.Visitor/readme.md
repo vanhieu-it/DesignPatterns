@@ -1,10 +1,11 @@
-> Mẫu thiết kế Visitor là một mẫu thiết kế hành vi cho phép bạn thêm các hoạt động vào các đối tượng của một cấu trúc đối tượng mà không làm thay đổi các lớp mà các đối tượng đó thuộc về. Mẫu thiết kế này đặc biệt hữu ích khi bạn cần thực hiện các hoạt động trên một nhóm các đối tượng khác nhau, đặc biệt là khi các hoạt động đó không có liên quan trực tiếp đến bản chất của các đối tượng.
+#### Behavioral Visitor là một mẫu thiết kế (design pattern) trong lập trình hướng đối tượng, thuộc nhóm Behavioral Patterns. Mẫu này cho phép bạn thêm các thao tác mới cho các lớp đối tượng mà không thay đổi chúng, thông qua việc tách biệt các hành vi ra khỏi cấu trúc của các lớp đối tượng.
 
-### Mẫu thiết kế Visitor bao gồm các thành phần chính sau:
-```
-1. Visitor: Định nghĩa giao diện cho các hoạt động có thể được thực hiện trên các phần tử của cấu trúc đối tượng.
-2. Concrete Visitor: Triển khai các hoạt động cụ thể cho các phần tử của cấu trúc đối tượng.
-3. Element: Định nghĩa giao diện cho các phần tử có thể chấp nhận một Visitor.
-4. Concrete Element: Triển khai giao diện Element và chấp nhận Visitor.
-5. Object Structure: Là một cấu trúc bao gồm các phần tử có thể được truy cập và thao tác bởi Visitor.
-```
+#### Ưu điểm:
+- Tách biệt hành vi khỏi cấu trúc đối tượng: Cho phép bạn thêm hành vi mới mà không cần sửa đổi các lớp đối tượng.
+- Đóng gói các thao tác liên quan: Các thao tác liên quan có thể được gom lại trong một lớp Visitor, dễ dàng quản lý và bảo trì.
+- Mở rộng dễ dàng: Khi cần thêm hành vi mới, bạn chỉ cần tạo lớp Visitor mới mà không ảnh hưởng đến các lớp đối tượng hiện có.
+- Tăng tính linh hoạt: Cho phép áp dụng các thao tác khác nhau lên cùng một cấu trúc đối tượng mà không cần thay đổi các đối tượng đó.
+#### Nhược điểm:
+- Phức tạp: Việc triển khai Visitor Pattern có thể phức tạp và khó hiểu, đặc biệt khi cấu trúc đối tượng phức tạp.
+- Kém tương thích với sự thay đổi cấu trúc: Khi cấu trúc đối tượng thay đổi, bạn cần cập nhật tất cả các lớp Visitor, gây khó khăn trong việc bảo trì.
+- Hiệu năng: Việc sử dụng Visitor có thể ảnh hưởng đến hiệu năng nếu có quá nhiều đối tượng và thao tác.
