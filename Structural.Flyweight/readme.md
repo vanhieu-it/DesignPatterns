@@ -1,6 +1,21 @@
-> Flyweight là một trong những mẫu thiết kế thuộc nhóm Structural (Cấu trúc) trong lập trình hướng đối tượng, được sử dụng để giảm thiểu việc sử dụng bộ nhớ khi xử lý nhiều đối tượng có cùng bản chất hoặc trạng thái chung. Mẫu này đạt được điều này bằng cách chia sẻ các phần trạng thái chung giữa các đối tượng thay vì tạo ra các đối tượng hoàn toàn mới mỗi khi cần.
-- Flyweight Interface: Xác định các phương thức mà tất cả các Flyweight cụ thể phải triển khai. Các phương thức này thường bao gồm những hành động có thể thực hiện trên các đối tượng Flyweight.
-- Concrete Flyweight: Triển khai giao diện Flyweight và đại diện cho các đối tượng có thể chia sẻ. Chứa trạng thái chung và không thay đổi (intrinsic state).
-- Unshared Concrete Flyweight: Đôi khi, có những đối tượng không thể chia sẻ hoàn toàn. Chúng vẫn có thể chứa các thành phần Flyweight để tiết kiệm bộ nhớ, nhưng chính bản thân chúng không chia sẻ được.
-- Flyweight Factory: Quản lý và cung cấp các đối tượng Flyweight. Đảm bảo rằng các đối tượng Flyweight được chia sẻ một cách thích hợp bằng cách kiểm tra xem một Flyweight với một trạng thái cụ thể đã tồn tại chưa và chỉ tạo ra một đối tượng mới nếu cần thiết.
-- Client: Sử dụng các đối tượng Flyweight và có thể chứa trạng thái đặc biệt (extrinsic state) của chúng. Trạng thái này được truyền vào các phương thức của Flyweight khi cần thiết.
+### Flyweight là một mẫu thiết kế (design pattern) thuộc nhóm Structural Patterns trong lập trình hướng đối tượng. Flyweight Pattern được sử dụng để giảm thiểu việc tạo ra các đối tượng tương tự nhau bằng cách chia sẻ chúng, giúp tiết kiệm bộ nhớ và tăng hiệu suất của ứng dụng.
+
+### Cách hoạt động của Flyweight Pattern
+- Chia sẻ trạng thái nội tại (intrinsic state): Flyweight chia sẻ các phần dữ liệu chung giữa các đối tượng khác nhau. Trạng thái nội tại là những thuộc tính không thay đổi của đối tượng, có thể được dùng chung.
+- Trạng thái ngoại tại (extrinsic state): Đây là những thông tin cụ thể mà đối tượng cần để hoạt động, nhưng không được lưu trữ trong đối tượng Flyweight. Trạng thái ngoại tại thường được truyền vào các phương thức khi cần.
+
+### Ưu điểm của Flyweight Pattern
+- Tiết kiệm bộ nhớ: Flyweight giúp giảm đáng kể số lượng đối tượng được tạo ra, do đó tiết kiệm bộ nhớ.
+- Hiệu suất tốt hơn: Bởi vì sử dụng ít bộ nhớ hơn, các ứng dụng có thể hoạt động nhanh hơn, đặc biệt là khi làm việc với nhiều đối tượng có cấu trúc tương tự.
+- Quản lý đối tượng tốt hơn: Bằng cách chia sẻ các đối tượng chung, bạn có thể giảm số lượng đối tượng cần phải quản lý.
+
+### Nhược điểm của Flyweight Pattern
+- Tăng độ phức tạp: Việc triển khai Flyweight có thể làm tăng độ phức tạp của hệ thống, đặc biệt là trong việc phân tách trạng thái nội tại và ngoại tại.
+- Khó duy trì: Khi số lượng đối tượng được chia sẻ tăng lên, việc duy trì và cập nhật các đối tượng này có thể trở nên khó khăn.
+- Không phù hợp cho mọi tình huống: Flyweight không hiệu quả nếu các đối tượng có trạng thái nội tại không nhiều hoặc nếu không có nhiều đối tượng tương tự cần được quản lý.
+
+### Khi nào nên sử dụng Flyweight Pattern
+- Khi hệ thống cần tạo ra một số lượng lớn các đối tượng tương tự nhau, có thể chia sẻ một phần trạng thái của chúng.
+- Khi việc tiết kiệm bộ nhớ là quan trọng đối với hiệu suất của ứng dụng.
+
+Flyweight pattern là một cách tối ưu hóa tài nguyên mạnh mẽ, nhưng cần được sử dụng đúng cách để đạt được hiệu quả mong muốn mà không làm tăng độ phức tạp quá mức.
